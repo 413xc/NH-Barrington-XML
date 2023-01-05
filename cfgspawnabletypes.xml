@@ -559,7 +559,7 @@
 	<type name="BDUPants">
 		<cargo preset="mixArmy" />
 	</type>
-	<!--REMOVED
+	
 	<type name="ManSuit_Black">
 		<cargo chance="0.02">
 			<item name="Derringer_Black" chance="1.00" />
@@ -735,7 +735,6 @@
 	<type name="Raincoat_Black">
 		<cargo preset="mixVillage" />
 	</type>
-	-->
 
 	<type name="M65Jacket_Black">
 		<cargo preset="foodArmy" />
@@ -860,7 +859,7 @@
 			<item name="Rope" chance="0.14" />
 		</cargo>
 	</type>
-	<!--REMOVED
+
 	<type name="MiniDress_Pink">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
@@ -989,7 +988,7 @@
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
-	<!--REMOVED
+
 	<type name="Blouse_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
